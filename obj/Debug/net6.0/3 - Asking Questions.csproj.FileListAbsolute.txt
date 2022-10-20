@@ -58,3 +58,18 @@
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.pdb
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.genruntimeconfig.cache
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/obj/Debug/net6.0/ref/3 - Asking Questions.dll
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/bin/Debug/net6.0/3 - Asking Questions
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/bin/Debug/net6.0/3 - Asking Questions.deps.json
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/bin/Debug/net6.0/3 - Asking Questions.runtimeconfig.json
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/bin/Debug/net6.0/3 - Asking Questions.dll
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/bin/Debug/net6.0/3 - Asking Questions.pdb
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.dll
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/refint/3 - Asking Questions.dll
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.pdb
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/3 - Asking Questions.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/Debug/net6.0/ref/3 - Asking Questions.dll

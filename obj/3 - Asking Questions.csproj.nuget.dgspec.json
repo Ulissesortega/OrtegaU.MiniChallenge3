@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/3 - Asking Questions.csproj": {}
+    "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/3 - Asking Questions.csproj": {}
   },
   "projects": {
-    "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/3 - Asking Questions.csproj": {
+    "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/3 - Asking Questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/3 - Asking Questions.csproj",
+        "projectUniqueName": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/3 - Asking Questions.csproj",
         "projectName": "3 - Asking Questions",
-        "projectPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/3 - Asking Questions.csproj",
+        "projectPath": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/3 - Asking Questions.csproj",
         "packagesPath": "/Users/ulisesortega/.nuget/packages/",
-        "outputPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge3/obj/",
+        "outputPath": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ulisesortega/.nuget/NuGet/NuGet.Config"
